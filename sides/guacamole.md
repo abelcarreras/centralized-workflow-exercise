@@ -20,6 +20,3 @@
 - add salt
 - and mix well
 - enjoy!
-- More fun
-- extra step
-- More fun
