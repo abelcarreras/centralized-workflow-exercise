@@ -14,13 +14,9 @@
 
 ## Instructions
 
-1. **Prepare the Fruits:**
-   - Wash all the fruits thoroughly under running water.
-   - Hull and halve the strawberries.
-   - Halve the grapes.
-   - Slice the banana.
-   - Core and chop the apple.
-   - Peel and section the orange.
+1. **Prepare the Potato:**
+   - Wash the potato and peel it
+   - Wash the cucumbers and cut them in 2cm cubes
 
 2. **Mix the Fruits:**
    - In a large bowl, gently mix all the prepared fruits together.

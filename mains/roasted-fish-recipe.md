@@ -17,6 +17,6 @@
    - Put the fish on a tray with the vegetables and the wine
 
 3. **Roast the Fish:**
-   - Put the tray in the oven for 30 minutes
+   - Put the tray in the oven for 40 minutes
 
 #TODO:add more fish instructions 
